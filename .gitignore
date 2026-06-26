@@ -1,0 +1,11 @@
+/target
+/.idea
+/backup
+/docs
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.aac
+*.csv
