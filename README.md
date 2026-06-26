@@ -110,14 +110,8 @@ src/
   signal.rs        Audio buffer, stats, helpers
   spectrum.rs      Text-mode DFT spectrum analysis
   wav.rs           Self-written WAV reader/writer
-docs/
-  WaveScope实验报告.md
-  WaveScope实验报告.docx
 .cargo/
   config.toml      Cargo registry mirror config
-backup/
-  WaveScope_initial_20260626/
-  WaveScope_gui_multiformat_20260626/
 ```
 
 ## Checks
